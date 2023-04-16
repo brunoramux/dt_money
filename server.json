@@ -1,0 +1,68 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de Sites",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-04-15T22:39:42.005Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentacao",
+      "price": 50,
+      "createdAt": "2023-04-15T22:32:42.005Z"
+    },
+    {
+      "description": "Pizza",
+      "category": "Alimentacao",
+      "price": 110,
+      "type": "outcome",
+      "createdAt": "2023-04-16T16:33:46.919Z",
+      "id": 3
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "category": "Sei la",
+      "price": 10000,
+      "type": "income",
+      "createdAt": "2023-04-16T16:35:47.465Z",
+      "id": 4
+    },
+    {
+      "description": "kafjsdkfj",
+      "category": "alimentacao",
+      "price": 1000,
+      "type": "outcome",
+      "createdAt": "2023-04-16T16:47:20.197Z",
+      "id": 5
+    },
+    {
+      "description": "fasdf",
+      "category": "fasd",
+      "price": 111,
+      "type": "income",
+      "createdAt": "2023-04-16T16:48:51.386Z",
+      "id": 6
+    },
+    {
+      "description": "fdafa",
+      "category": "afsdfas",
+      "price": 1111,
+      "type": "income",
+      "createdAt": "2023-04-16T16:52:56.659Z",
+      "id": 7
+    },
+    {
+      "description": "fasdfasdf",
+      "category": "fggfgffgf",
+      "price": 11111,
+      "type": "outcome",
+      "createdAt": "2023-04-16T16:53:18.984Z",
+      "id": 8
+    }
+  ]
+}
